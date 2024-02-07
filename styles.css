@@ -1,2 +1,24 @@
+.holder{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly; 
+	font-size: 50px;
+	flex-wrap: wrap;
+}
+.item1{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
 
-/* Your CSS Code here. */
+.item2{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+}
+
+.item3{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+}
